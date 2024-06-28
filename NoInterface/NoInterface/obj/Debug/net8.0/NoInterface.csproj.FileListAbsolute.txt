@@ -1,0 +1,14 @@
+C:\Projeto C#\NoInterface\NoInterface\bin\Debug\net8.0\NoInterface.exe
+C:\Projeto C#\NoInterface\NoInterface\bin\Debug\net8.0\NoInterface.deps.json
+C:\Projeto C#\NoInterface\NoInterface\bin\Debug\net8.0\NoInterface.runtimeconfig.json
+C:\Projeto C#\NoInterface\NoInterface\bin\Debug\net8.0\NoInterface.dll
+C:\Projeto C#\NoInterface\NoInterface\bin\Debug\net8.0\NoInterface.pdb
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.AssemblyInfoInputs.cache
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.AssemblyInfo.cs
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.csproj.CoreCompileInputs.cache
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.dll
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\refint\NoInterface.dll
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.pdb
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\NoInterface.genruntimeconfig.cache
+C:\Projeto C#\NoInterface\NoInterface\obj\Debug\net8.0\ref\NoInterface.dll
